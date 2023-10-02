@@ -12,10 +12,7 @@ public class exo3 {
                 for(int i = 0; i<quotation.size(); i++){
                     System.out.println(quotation.get(i) + countVowels(quotation.get(i)));
                 }
-
-
     }
-
 
     private static int countVowels(String str) {
         Integer Vowels = 0;
