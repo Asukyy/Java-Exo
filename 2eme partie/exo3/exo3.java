@@ -21,6 +21,10 @@ public class exo3 {
              str.charAt(i) == 'i' || str.charAt(i) == 'o' || str.charAt(i) == 'u'){
                 Vowels++;
         }
+        else if(str.charAt(i) == 'A' || str.charAt(i) == 'E' ||
+             str.charAt(i) == 'I' || str.charAt(i) == 'O' || str.charAt(i) == 'U'){
+                Vowels++;
+        }
 
     }
 
