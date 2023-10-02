@@ -1,4 +1,3 @@
-package exo3;
 
 public class exo3 {
 

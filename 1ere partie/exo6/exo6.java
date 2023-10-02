@@ -1,4 +1,3 @@
-package exo6;
 
 public class exo6 {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package exo9;
 
 public class exo9 {
 

@@ -1,4 +1,3 @@
-package exo8;
 
 public class exo8 {
 
