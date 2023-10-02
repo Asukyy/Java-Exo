@@ -7,8 +7,7 @@ public class exo3 {
         ArrayList<String> quotation = new ArrayList<>();
         quotation.add("Quand Paris s’enrhume, l’Europe a froid: ");
         quotation.add("S'il y a un diamant dans la poitrine, il brille sur le visage: ");
-        quotation.add(" La joie de vivre n'est pas un but, mais un\r\n" + //
-                "devoir: ");
+        quotation.add(" La joie de vivre n'est pas un but, mais un devoir: ");
 
                 for(int i = 0; i<quotation.size(); i++){
                     System.out.println(quotation.get(i) + countVowels(quotation.get(i)));
