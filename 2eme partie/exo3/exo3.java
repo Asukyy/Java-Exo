@@ -5,7 +5,7 @@ public class exo3 {
     public static void main(String[] args) {
 
         ArrayList<String> quotation = new ArrayList<>();
-        quotation.add("Quand Paris s’enrhume, l’Europe a froid: ");
+        quotation.add("Quand Paris s'enrhume, l'Europe a froid: ");
         quotation.add("S'il y a un diamant dans la poitrine, il brille sur le visage: ");
         quotation.add(" La joie de vivre n'est pas un but, mais un devoir: ");
 
